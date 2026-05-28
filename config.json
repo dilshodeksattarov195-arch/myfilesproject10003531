@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfave",
+        "uuid": 3721674,
+        "checksum": "fi8yst"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
